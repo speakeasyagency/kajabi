@@ -1,0 +1,8 @@
+.mobile {display:none;}
+@media screen and (max-width: 600px) {
+.mobile {display:inline;}
+}
+.desktop {display:inline;}
+@media screen and (max-width: 600px) {
+.desktop {display:none;}
+}
